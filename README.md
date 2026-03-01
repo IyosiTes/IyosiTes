@@ -1,7 +1,7 @@
 ## Howdy 👋, Eyosias Tesfaye
 Welcome to my 🌍,enjoy the vibe
 
-It's all about Happiness.
+Less bricks,more legacy.
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
