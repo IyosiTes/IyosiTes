@@ -1,7 +1,7 @@
 ## Howdy 👋, Eyosias Tesfaye
 Welcome to my 🌍,enjoy the vibe
 
-Less bricks,more legacy.
+Wait...why green squares look broke? I just poured a whole ocean in one drop.
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
