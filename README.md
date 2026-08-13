@@ -20,6 +20,7 @@ I build software products that solve practical problems, from idea and system de
 - **Databases:** PostgreSQL, SQL
 - **Frontend:** TypeScript, React, JavaScript, Tailwind CSS
 - **Engineering:** REST APIs, JWT Authentication, Git, Deployment
+- **API & Testing:** Postman, API testing, query-count testing, debugging
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
