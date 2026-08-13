@@ -1,53 +1,46 @@
 # Eyosias Tesfaye
+
 ### Backend-focused Full-Stack Developer & Product Builder
 
-I build practical software products with a focus on backend engineering, APIs, databases, and scalable web applications.
+I build practical software products with **Python, Django, REST APIs, PostgreSQL, TypeScript, and React.**
 
-**Core stack:** Python • Django • Django REST Framework • PostgreSQL • TypeScript • React
+## What I'm Building
 
-## What I Build
+🚗 **Finote** — Exploring a platform for real-time fuel station information.
 
-I build software products that solve practical problems, from idea and system design to backend APIs, databases, frontend interfaces, and deployment.
-
-### Current Projects
-
-- **Mekwerab** — E-commerce and community platform for Ethiopian Orthodox church products and services.
-- **Finote** — A platform designed to help drivers find real-time fuel availability and station information.
+🛒 **Mekwerab** — E-commerce and community platform built with Django REST Framework, PostgreSQL, React, and TypeScript.
 
 ## Technical Focus
 
-- **Backend:** Python, Django, Django REST Framework
-- **Databases:** PostgreSQL, SQL
-- **Frontend:** TypeScript, React, JavaScript, Tailwind CSS
-- **Engineering:** REST APIs, JWT Authentication, Git, Deployment
-- **API & Testing:** Postman, API testing, query-count testing, debugging
+- **Backend:** Python, Django, Django REST Framework, REST APIs, JWT
+- **Frontend:** TypeScript, React, JavaScript, Tailwind CSS, Vite
+- **Database:** PostgreSQL, SQL
+- **Testing & Tools:** Postman, API testing, query-count testing, Git
+- **Engineering:** Database optimization, debugging, deployment
+- **Other:** C++, Information Retrieval, NLP
 
-## Featured Projects
+## Featured Work
 
 ### 🛒 Mekwerab
+E-commerce and community platform.
 
-E-commerce and community platform built with Django REST Framework, PostgreSQL, React, and TypeScript.
-
-- Backend: [Mek](https://github.com/IyosiTes/Mek)
-- Frontend: [Mek-Front](https://github.com/IyosiTes/Mek-Front)
-- Live: https://mekwerab.vercel.app/community
+**Backend:** [Mek](https://github.com/IyosiTes/Mek)  
+**Frontend:** [Mek-Front](https://github.com/IyosiTes/Mek-Front)  
+**Live:** [mekwerab.vercel.app](https://mekwerab.vercel.app/community)
 
 ### 🔎 Movie Information Retrieval System
+Information Retrieval system using Boolean Retrieval, TF-IDF, inverted indexing, stemming, and cosine similarity.
 
-Information Retrieval system built with Python using Boolean Retrieval, TF-IDF, inverted indexing, stemming, and cosine similarity.
-
-- [MovieIR](https://github.com/IyosiTes/MovieIR)
+[View Project →](https://github.com/IyosiTes/MovieIR)
 
 ### 📝 ToDo List Manager
+C++ console application demonstrating task management and file persistence.
 
-C++ console-based task management application demonstrating data handling and file persistence.
+[View Project →](https://github.com/IyosiTes/ToDolist)
 
-- [ToDolist](https://github.com/IyosiTes/ToDolist)
 ## Connect
 
-- 💼 LinkedIn: [Eyosias Tesfaye](https://www.linkedin.com/in/IyosiTes)
-- 📧 Email2: iyosiastesfaye@gmail.com
-- 💬 Telegram: [@Iyosi_tes](https://t.me/Iyosi_tes)
+[LinkedIn](https://www.linkedin.com/in/IyosiTes) · [Email2](mailto:iyosiastesfaye@gmail.com) · [Telegram](https://t.me/Iyosi_tes)
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
