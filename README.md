@@ -45,7 +45,7 @@ C++ console-based task management application demonstrating data handling and fi
 - [ToDolist](https://github.com/IyosiTes/ToDolist)
 ## Connect
 
-- 💼 LinkedIn: [Eyosias Tesfaye](in/IyosiTes)
+- 💼 LinkedIn: [Eyosias Tesfaye](https://linkedin/IyosiTes)
 - 📧 Email: iyosiastesfaye@gmail.com
 - 💬 Telegram: [@Iyosi_tes](https://t.me/Iyosi_tes)
 <!--
