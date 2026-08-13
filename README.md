@@ -46,7 +46,7 @@ C++ console-based task management application demonstrating data handling and fi
 ## Connect
 
 - 💼 LinkedIn: [Eyosias Tesfaye](https://www.linkedin.com/in/IyosiTes)
-- 📧 Email: iyosiastesfaye@gmail.com
+- 📧 Email2: iyosiastesfaye@gmail.com
 - 💬 Telegram: [@Iyosi_tes](https://t.me/Iyosi_tes)
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
