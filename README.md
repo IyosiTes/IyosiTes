@@ -13,6 +13,13 @@ I build software products that solve practical problems, from idea and system de
 
 - **Mekwerab** — E-commerce and community platform for Ethiopian Orthodox church products and services.
 - **Finote** — A platform designed to help drivers find real-time fuel availability and station information.
+
+## Technical Focus
+
+- **Backend:** Python, Django, Django REST Framework
+- **Databases:** PostgreSQL, SQL
+- **Frontend:** TypeScript, React, JavaScript, Tailwind CSS
+- **Engineering:** REST APIs, JWT Authentication, Git, Deployment
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
