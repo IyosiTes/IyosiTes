@@ -1,7 +1,9 @@
-## Howdy 👋, Eyosias Tesfaye
-Welcome to my 🌍,enjoy the vibe
+# Eyosias Tesfaye
+### Backend-focused Full-Stack Developer & Product Builder
 
-Wait...why green squares look broke? I just poured a whole ocean in one drop.
+I build practical software products with a focus on backend engineering, APIs, databases, and scalable web applications.
+
+**Core stack:** Python • Django • Django REST Framework • PostgreSQL • TypeScript • React
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
