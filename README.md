@@ -15,7 +15,7 @@ I build practical software products with **Python, Django, REST APIs, PostgreSQL
 - **Backend:** Python, Django, Django REST Framework, REST APIs, JWT
 - **Frontend:** TypeScript, React, JavaScript, Tailwind CSS, Vite
 - **Database:** PostgreSQL, SQL
-- **Testing & Tools:** Postman, API testing, query-count testing, Git
+- **Testing & Tools:** Postman, silky, API testing, query-count testing, Git
 - **Engineering:** Database optimization, debugging, deployment
 - **Other:** C++, Information Retrieval, NLP
 
