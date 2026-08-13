@@ -30,7 +30,7 @@ E-commerce and community platform built with Django REST Framework, PostgreSQL, 
 
 - Backend: [Mek](https://github.com/IyosiTes/Mek)
 - Frontend: [Mek-Front](https://github.com/IyosiTes/Mek-Front)
-- Live: https://mekwerab.vercel.app
+- Live: https://mekwerab.vercel.app/community
 
 ### 🔎 Movie Information Retrieval System
 
@@ -42,7 +42,12 @@ Information Retrieval system built with Python using Boolean Retrieval, TF-IDF, 
 
 C++ console-based task management application demonstrating data handling and file persistence.
 
-- [ToDolist](https://github.com/IyosiTes/ToDolist)  
+- [ToDolist](https://github.com/IyosiTes/ToDolist)
+## Connect
+
+- 💼 LinkedIn: [Eyosias Tesfaye](in/IyosiTes)
+- 📧 Email: iyosiastesfaye@gmail.com
+- 💬 Telegram: [@Iyosi_tes](https://t.me/Iyosi_tes)
 <!--
 **IyosiTes/IyosiTes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
